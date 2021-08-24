@@ -1,0 +1,5 @@
+x = int(input("Insira um número: "))
+y = int(input("Insira outro número: "))
+z = int(input("Insira outro número: "))
+s = (x+y+z)
+print("A soma dos números {}, {} e {} é {}".format(x, y, z, s))
