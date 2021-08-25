@@ -1,2 +1,2 @@
 x = int(input("Insira um número: "))
-print(x/5)
+print(x**2)
