@@ -1,2 +1,2 @@
-x = int(input("Insira uma temperatura em graus Celsius: "))
-print(x+273,15)
+x = int(input("Insira uma temperatura em graus Kelvin: "))
+print(x-273,15)
