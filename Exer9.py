@@ -1,2 +1,2 @@
-x = int(input("Insira uma velocidade em km/h: "))
-print(x/3.6)
+x = int(input("Insira uma temperatura em graus Celsius: "))
+print(x+273,15)
