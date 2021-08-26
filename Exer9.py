@@ -1,2 +1,2 @@
-x = int(input("Insira uma temperatura em graus Celsius: "))
+x = float(input("Insira uma temperatura em graus Celsius: "))
 print(x+273,15)
